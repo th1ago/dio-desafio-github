@@ -1,0 +1,23 @@
+/*
+row (linha)
+row-reverse
+colunm
+colunm-reverse
+
+wrap = permite a quebra de linha
+nowrap = nao permite a quebra de linha
+wrap-reverse
+
+*/
+
+
+.flex{
+    max-width: 300px;
+    padding: 10px;
+    border: 2px solid black;
+}
+
+.item{
+    background-color: aqua;
+    margin: 5px;
+}
